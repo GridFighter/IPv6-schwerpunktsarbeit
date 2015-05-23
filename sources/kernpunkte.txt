@@ -1,0 +1,6 @@
+IPv6
+-> Allgemein IPv6, Adressierung, Funktion
+-> Übergangsstrategie von IPv4 auf IPv6
+-> Sicherheit (Gesichtspunkte, Betrachtungen, Firewalls, Risiken)
+-> Qualtity of Service
+-> Mobile IPv6
