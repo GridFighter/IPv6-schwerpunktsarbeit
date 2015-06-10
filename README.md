@@ -19,7 +19,6 @@ Dateiformate
 - PNG fuer Grafiken
  
 Aenderungen
-- Fuer jede Aktualisierung, große Aenderungen vermeiden (Verlauf wird schnell unuebersichtlich)
 - Verbesserung von Rechtschreib-, Gramatik-, Logik- und Verstaendnisfehlern erwuenscht
  
 Lizenzierung
